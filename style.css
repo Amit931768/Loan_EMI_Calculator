@@ -4,18 +4,18 @@
 
 body{
   font-family: Arial, sans-serif;
-  background:#d5ff7a;
+  background:#9B1B30;
 }
 
 .container{
   width:90%;
   max-width:350px;
   margin:80px auto;
-  background:rgb(56, 241, 235);
+  background: #c1145c;
   padding:20px;
   border-radius:12px;
 
-  box-shadow: 0 10px 25px rgb(23, 15, 133);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
   transition: 
     transform 0.3s ease,
     box-shadow 0.3s ease;
@@ -27,7 +27,7 @@ body{
 
 h2{
   text-align:center;
-  color:blue
+  color:#060303
 }
 
 label{
